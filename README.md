@@ -18,27 +18,27 @@
 <p align="center">
   <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-web-banner.jpg" />
   <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-mobile-app-banner.jpg" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <!-- <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
+</a> 
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
+</a>-->
   <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/vrent.jpg" />
   <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crm.jpg" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <!--<a href="https://github.com/YuriDevAT/nikki-my-diary">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
 </a>
 <a href="https://github.com/YuriDevAT/instagram-clone">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
+</a> -->
 </p>
 
 <br />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: Europe/Vienna (CEST)
+Timezone: Asia/Dhaka
 </p>
 <br />
 <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
