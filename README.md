@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2019 using PHP, Laravel and Vue. Friendly minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Software Engineer since 2019 at <a href="https://techvill.net/">Techvillage</a> using PHP, Laravel, jQuery and React. Friendly minded. Scrum & Agile inspired.</p>
 <br />
 
 <h2 align="center">Worked on the projects, ahead of the game 💻</h2>
