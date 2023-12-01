@@ -1,167 +1,123 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Imtiaze 👋</h1>
+### Hi there 👋!
+
+<!--
+**Imtiaze/imtiaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+#### Who I am?
+- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 4+ years of hands-on experience in **technology consulting, product development.**
+- Developed products for **Wallet - Money Transfer System**, and **Ecommerce** business domains.
+- Have built **mobile** apps **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** architectures.
+<p align="left">
+  <a href="https://github.com/imtiaze?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/firoze-hossain?color=green&logo=github">
+  </a>
+  <a href="https://github.com/imtiaze/">
+    <img src="https://komarev.com/ghpvc/?username=firoze-hossain" alt="visitors" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ahammedimtiaze78">
+    <img src="https://img.shields.io/badge/Hackerrank-51-blue" alt="HackerRank Rating" />
+  </a>
 </p>
-<p align="center">
-<!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
-<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/ahammed-imtiaze/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
+
+#### What I'm doing?
+- 🏢 Working at **[Techvillage](https://techvill.net/)** as a **Senior Software Engineer**.
+- 👨‍💻 Writing `PHP` `SQL` `HTML` `CSS` `JavaScript` `JQuery` `JSON`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/imtiaze/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Laravel community**.
+- 📚 Currently learning about **clean code**, **problem solving**, **deep dive laravel**, and **rest services**.
+- 👯 Looking to collaborate on **laravel projects**.
+
+#### What projects I've worked on?
+- 🏢 [PayMoney - Secure Online Payment Gateway](https://codecanyon.net/item/paymoney-secure-online-payment-gateway/22341650) and it's enourmous number of modules
+  - 👩‍💻 Multilevel Referral System 
+  - 👩‍💻 Event Ticket Module 
+  - 👩‍💻 Payment via  Payment Link  
+  - 👩‍💻 Crypto Send Receive and Exchange
+  - 👩‍💻 Standard & Express Merchant Payment 
+  - 👩‍💻 Paymoney Payment SDK and Rest API
+  - 👩‍💻 Voucher Module 
+  - 👩‍💻 QrPayments
+  - 👩‍💻 Agent Module 
+  - 👩‍💻 WooCommerce Plugin 
+  - 👩‍💻 Mobile Rechage, SMS, Data Bundle Gateways
+  - 👩‍💻 Dozens of Payment Gateways 
+- [Artifism - AI Content & Image Generator SaaS](https://codecanyon.net/item/artifism-ai-content-image-generator-saas/47251169)
+  - Specillay worked on OpenAI api features and it's different Models (Content Generate, Code Generate, Image Generate, Speech to Text, Text to Speech etc)
+  - Followed Open/Closed principle strictly for future extensions
+  - Worked on SSE events for Streaming the response
+- [Martvill - A Global Multivendor Ecommerce Platform to Sell Anything](https://codecanyon.net/item/martvill-a-global-multivendor-ecommerce-platform-to-sell-anything/43288879)
+  - Worked on Payment Gateway Modules as modulerized structure
+  - Worked Global filtering
+
+#### What I like to disscuss about? 
+- 💬 Ask me about `Laravel Stack` `web APIs` `design patterns` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+
+#### What my skill set looks like?
+- 🖥 **Front-end:** 
+  - **📜 Languages:** • `🧙🏻 Javascript` • `👨‍🏭 XML` • `👨‍🔧 Jquery` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨🏻‍🎨 Blade`
+- 🗄️ **Back-end:**
+  - **📜 Languages:** • `🧙🏻‍♂️ PHP 7 & 8`
+  - **🔭 Frameworks:** • [Laravel](https://laravel.com/)
+  - **💾 Databases:** • [MySQL](https://www.mysql.com/) 
+  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html)
+  - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/)
+
+- 👨‍💻 **Problem Solving:**
+  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=23>](https://www.hackerrank.com/profile/firoze_hossain) 
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://github.com/imtiaze) • [BitBucket](https://bitbucket.org/techvillage/)
+  - **🗃 Project management:** • [ClickUp](https://clickup.com/)
+  - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) 
+- 🧙‍♂️ **Coding pattern & principles:**
+  - **⚒ Patterns:**   • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
+  - **🗜 Principles:** • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  - **🕹 Frameworks:** • [Laravel 10.x](https://laravel.com/)
+  
+- **🏗️ Code editors:**
+<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height=25></a> <a href="https://www.sublimetext.com/"><img src="https://github.com/SublimeText/AFileIcon/blob/master/icons/svg/file_type_sublime.svg" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> <a href="https://www.jetbrains.com/datagrip/"><img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" height=25></a>
+ - **💻 Operating Systems:**
+   - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1)
+   - [Ubuntu](https://ubuntu.com/)
+#### What's interesting about me?  
+  - 😎 I am an **ambivert** and I can speak **english**.
+  - 🧐 I love to be very **precise** and **thorough**.
+  - ✍️ I write about **why a certain code is written instead of what** in the comments.
+  - ⏱️ I'm a bit **workaholic** and just can't **resist the urge** to **explore** a new **tech** released.
+
+<!--Github Stats-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtiaze" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaze"/>
 </p>
-<br />
 
-<p>Enthusiastic Software Engineer since 2019 at <a href="https://techvill.net/">Techvillage</a> using PHP, Laravel, jQuery and React. Friendly minded. Scrum & Agile inspired.</p>
-<br />
+#### What companies have I worked for?
+<p left="center">
+  <a href="https://codecanyon.net/user/techvillage1">
+    <img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/company/techvillage.png" >
+    </a> 
+  <a href="https://qbytesoft.com/">
+    <img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/company/qbysotf.png" >
+    </a> 
+</p>
 
-<h2 align="center">Worked on the projects, ahead of the game 💻</h2>
-<br />
-
-<p align="center">
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-web-banner.jpg" />
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-mobile-app-banner.jpg" />
- <!-- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+#### How to get in touch with me?
+<p left="center">
+<a href="https://www.linkedin.com/in/imtiaze/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>-->
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/vrent.jpg" />
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crm.jpg" />
-  <!--<a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+<a href="mailto:ahammedimtiaze78@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a> -->
+  <a href="https://stackoverflow.com/users/7884586/imtiaze">
+  <img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
+</a>
+<a href="https://telegram.me/ahammedimtiaze">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
+</a>
+<a href="[https://join.skype.com/invite/yWQSIxeBwcwb](https://join.skype.com/invite/oIE7B5cOOSR9)">
+  <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" height=25>
+</a>
 </p>
 
-<br />
-
-<h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Asia/Dhaka
-</p>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
-
-<br />
-<br />
-<p>
-<h3 align="center"> Languages and Tools</h3>
-</p>
-<br />
-<p align="center">
-     <!-- laravel -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40">
-    <!-- php -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
-    <!-- Javascript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="javascript" width="40" height="40"/> 
-    <!-- html -->
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <!-- css -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <img src="https://cutt.ly/7Opx2B6" width="40" height="40">
-<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-    <!-- github -->
-    <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
-    <!-- Source tree -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="40" height="40">
-    <!-- Cordova -->
-    <!-- Vscode -->
-    <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <!-- Filezilaa -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width="40" height="40">
-    <!-- Postman -->
-    <img src="https://cutt.ly/DOpxKby" width="40" height="40">
-<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
-</p>
-<br />
-
-<h3 align="center">🛠 Skills</h3>
-
-📫 Crypto Providers that are experienced with
-
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/block.io.png" width="300">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/coinpayments.jpg" width="300">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/coinbase_commerce.jpg" width="300">
-
-<br><br>
-
-📫 Modules I have developed & worked with
-```
-👩‍💻 Multilevel Referral System 
-👩‍💻 Event Ticket Module 
-👩‍💻 Payment via  Payment Link  
-👩‍💻 Crypto Send Receive 
-👩‍💻 Crypto Exchange 
-👩‍💻 Standard & Express Merchant Payment 
-👩‍💻 Manual Payment Method 
-👩‍💻 Voucher Module 
-👩‍💻 Qrcode features 
-👩‍💻 Agent Module 
-👩‍💻 WooCommerce Plugin 
-👩‍💻 Mobile Rechage, SMS, Data Bundle Gateways
-👩‍💻 Payment Gateways 
-```
-<br><br>
-📫 Payment Gateways I have integrated
-
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/stripe.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paypal.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paypal-express.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/razorpay.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/authorize.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paystack.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/flutterwave.png" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/Payfast.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/orangemoney.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/mtn.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/mpesa.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/my-fatoorah.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/cashu.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/pago-facil.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/my-fatoorah.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/cib.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/n-genious.jpg" width="140">
-<br><br>
-
-📫 SMS Gateways
-
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/twilio.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/movider.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/nexmo.jpg">
-<br><br>
-
-📫 Mobile Recharge, Bulk SMS, Data Bundle
-<br><br>
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/recharge-sms-data/reloadly.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/recharge-sms-data/dtone.jpg">
-
-<br><br>
-
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
-
----
-
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p>
