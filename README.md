@@ -28,7 +28,7 @@
 
 | Company | Position | Duration |
 | :--- | :--- | :--- |
-| **ISSL** | Senior Software Engineer | Oct 2025 – Present |
+| **[ISSL](https://issl.com.bd/)** | Senior Software Engineer | Oct 2025 – Present |
 | **[TechVillage](https://techvill.net/)** | Senior Software Engineer | Feb 2020 – Sep 2025 |
 | **[QbyteSoft](https://qbytesoft.com/)** | Junior Software Engineer | May 2019 – Jan 2020 |
 
