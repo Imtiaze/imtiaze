@@ -18,9 +18,9 @@
 ---
 
 ### 👨‍💻 Who I Am
-- 💻 **Backend-focused Software Engineer** passionate about building scalable business applications, financial systems, and SaaS platforms.
+- 💻 **Backend-focused Software Engineer** with **6+ years of experience** building scalable business applications, financial systems, and commercial SaaS platforms.
 - 🛠️ Specializing in **PHP, Laravel, REST APIs, payment integrations, and backend architecture**.
-- 🧩 Driven by solving complex business problems and writing **maintainable, extensible code** grounded in **SOLID principles** (`Open/Closed Principle`, `Separation of Concerns`) and clean design patterns (`Factory`, `Adapter`, `Manager`).
+- 🧩 Driven by solving complex business problems and writing **maintainable, extensible code** grounded in **SOLID principles** (`Open/Closed Principle`, `Single Responsibility`, `Separation of Concerns`) and clean design patterns (`Factory`, `Adapter`, `Manager`).
 
 ---
 
@@ -36,18 +36,23 @@
 
 ### 🏆 Featured Projects & Contributions
 
+- 📞 **Enterprise Credit Collection CRM**  
+  *An enterprise-grade credit collection and operational management platform built for high-volume telecom workflows.*
+  - Architected bulk data upload pipelines, automated payment processing, and operational reporting modules.
+  - Engineered call statistics analytics and granular Role-Based Access Control (RBAC) in **Laravel**.
+
 - 💳 **[PayMoney – Secure Online Payment Gateway](https://codecanyon.net/item/paymoney-secure-online-payment-gateway/22341650)**  
-  *A multi-feature financial platform with digital wallets, money transfers, merchant payments, and payment gateway integrations.*
-  - Engineered core wallet operations: deposits, withdrawals, peer-to-peer transfers, and currency exchange.
+  *A commercial multi-feature financial platform powering digital wallets, money transfers, merchant payments, and 20+ payment gateway integrations.*
+  - Engineered core wallet operations: deposits, withdrawals, peer-to-peer transfers, and multi-currency exchange.
   - Built multiple payment gateway integrations using isolated gateway classes and modular architecture.
-  - Implemented webhook-based payment event processing and unique transaction-reference validation.
+  - Implemented webhook-based payment event processing and unique transaction-reference validation for idempotency.
   - Designed transaction-based wallet balance calculations and centralized financial records.
   - Developed merchant payments, custom Payment SDK, REST APIs, and QR payment flows.
   - Built and maintained Crypto operations, multilevel referrals, event tickets, vouchers, and agent modules.
   - Delivered the official WooCommerce integration alongside mobile recharge, SMS, and data bundle gateways.
 
 - 🏠 **[vRent – Vacation Rental Marketplace](https://codecanyon.net/item/vrent-vacation-rental-marketplace/19418596)**  
-  *A vacation rental marketplace supporting property bookings, pricing, availability, and host financial operations.*
+  *A vacation rental marketplace supporting property bookings, dynamic pricing, availability, and host financial operations.*
   - Architected common interface and Adapter-based payment gateway integrations.
   - Handled asynchronous payment callbacks, webhooks, and duplicate transaction validation.
   - Managed the end-to-end booking lifecycle across `Pending`, `Confirmed`, `Completed`, and `Cancelled` states.
@@ -55,7 +60,7 @@
   - Engineered host wallet balance calculations, payout status tracking, and core admin/backend business modules.
 
 - 🤖 **[Artifism – AI Content & Image Generator SaaS](https://codecanyon.net/item/artifism-ai-content-image-generator-saas/47251169)**  
-  *An AI-powered SaaS application for content, code, image, and audio-related generation.*
+  *An AI-powered SaaS application for content, code, image, and audio generation.*
   - Designed AI provider abstraction using interfaces and abstract classes, strictly following the **Open/Closed Principle**.
   - Implemented **Manager/Factory-based** dynamic provider resolution and separate service implementations across AI capabilities.
   - Built database and configuration-driven AI model selection and secure database-stored provider credentials.
@@ -73,19 +78,19 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 - **Languages:**  
-  `PHP` • `JavaScript` • `SQL` • `HTML` • `CSS`
+  `PHP (7.x / 8.x)` • `JavaScript (ES6+)` • `SQL` • `HTML5` • `CSS3`
 - **Backend & Architecture:**  
-  `Laravel` • `REST APIs` • `MVC` • `Server-Sent Events (SSE)`
+  `Laravel` • `Eloquent ORM` • `REST APIs` • `Queues & Jobs` • `Server-Sent Events (SSE)` • `MVC` • `Modular Monoliths`
 - **Frontend:**  
-  `Blade` • `Tailwind CSS` • `jQuery`
-- **Databases:**  
-  `MySQL` • `PostgreSQL`
+  `Blade` • `Alpine.js` • `Tailwind CSS` • `Bootstrap` • `jQuery`
+- **Databases & Caching:**  
+  `MySQL` • `PostgreSQL` • `Query Optimization` • `Database Transactions`
 - **Integrations:**  
-  `Payment Gateways` • `Webhooks` • `AI APIs`
+  `Payment Gateways` • `Webhooks & Idempotency` • `AI APIs (OpenAI, etc.)` • `Third-Party REST SDKs`
 - **Design Patterns & Principles:**  
   `Factory` • `Adapter` • `Manager` • `SOLID` • `Separation of Concerns` • `Open/Closed Principle`
-- **Tools & Environment:**  
-  `Git` • `GitHub` • `Bitbucket` • `Postman` • `Docker` • `Linux` • `Ubuntu` • `Windows`
+- **DevOps, Tools & Environment:**  
+  `Git` • `GitHub Actions` • `Bitbucket` • `Docker` • `Postman` • `SSH / CI-CD` • `Cloudflare WAF` • `Linux (Ubuntu)` • `Windows`
 
 ---
 
@@ -94,7 +99,7 @@
 - 💸 **Fintech applications**, digital wallets, and high-integrity transaction processing.
 - 🔌 **Payment gateway integrations** and asynchronous **webhook handling**.
 - ☁️ **SaaS platforms**, third-party API integrations, and **AI provider streaming responses**.
-- 🏢 **Booking, invoicing, and eCommerce** business applications.
+- 🏢 **Booking, invoicing, CRM, and eCommerce** business applications.
 - 📐 **Clean code, design patterns**, and maintainable software architecture.
 
 ---
